@@ -1,0 +1,10 @@
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\TFC-Benjamin.exe.config
+C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\TFC-Benjamin.exe
+C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\TFC-Benjamin.pdb
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.exe
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.pdb
+C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.csproj.CopyComplete
