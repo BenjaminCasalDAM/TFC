@@ -8,3 +8,10 @@ C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.pdb
 C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Benjamin\source\repos\TFC-Benjamin\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaPrincipal.resources
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaPlatos.resources
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC-Benjamin.csproj.GenerateResource.cache
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaPlatosListado.resources
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaIngredientes.resources
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaIngredientesAnadir.resources
+C:\Users\Benjamin\source\repos\TFC-Benjamin\obj\Debug\TFC_Benjamin.VentanaIngredientesModificar.resources

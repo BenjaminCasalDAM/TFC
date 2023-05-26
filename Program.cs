@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json.Linq;
+using System.Windows.Forms;
 
 namespace TFC_Benjamin
 {
@@ -16,7 +17,17 @@ namespace TFC_Benjamin
         {
             ObtenerDatos datos = new ObtenerDatos();
             InfoNutricionalIngrediente infoIngrediente = new InfoNutricionalIngrediente();
+            //InsertBD operacionesInsert = new InsertBD();
+            VentanaPrincipal vtaMain = new VentanaPrincipal();
+
+            Application.Run(vtaMain);
+
             infoIngrediente = await datos.ObtenerValoresAlimento();
+            //operacionesInsert.InsertInfoIngrediente(infoIngrediente);
+
+            
+
+            
         }
     }
 }
